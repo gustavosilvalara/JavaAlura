@@ -1,4 +1,4 @@
-package PrimeirosPassos.HoraDaPratica;
+package PrimeirosPassos.Capitulo01.HoraDaPratica;
 
 public class Subtracao {
     public static void main(String[] args) {

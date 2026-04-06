@@ -1,4 +1,4 @@
-package PrimeirosPassos.PrimeiroPrograma;
+package PrimeirosPassos.Capitulo01.PrimeiroPrograma;
 
 public class Main{
     public static void main(String[] args) {

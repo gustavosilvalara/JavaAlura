@@ -1,4 +1,4 @@
-package PrimeirosPassos.HoraDaPratica;
+package PrimeirosPassos.Capitulo01.HoraDaPratica;
 
 import java.util.Scanner;
 
