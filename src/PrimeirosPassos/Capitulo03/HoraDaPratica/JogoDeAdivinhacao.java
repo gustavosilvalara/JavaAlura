@@ -1,4 +1,4 @@
-package PrimeirosPassos.Capitulo03;
+package PrimeirosPassos.Capitulo03.HoraDaPratica;
 
 import java.util.Random;
 import java.util.Scanner;
